@@ -1,36 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jovandry Morchan Mere Guju</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h1 align="center">
+  👋 Hi, I'm Jovandry Morchan Mere Guju
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jovanmorgan&label=Profile%20views&color=0e75b6&style=flat" alt="jovanmorgan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovanmorgan" alt="jovanmorgan" /></a> </p>
-
-- 🔭 I’m currently working on **sistem_uangku**
-
-- 🌱 I’m currently learning **Framework: React.js, Vue.js Animasi: GSAP (GreenSock Animation Platform) IoT: Integrasi ESP32/ESP8266 dengan sistem cloud**
-
-- 👯 I’m looking to collaborate on **Interactive Web Animations & IoT Solutions**
-
-- 🤝 I’m looking for help with **Advanced IoT Integration and Dynamic Web Apps**
-
-- 💬 Ask me about **Sistem IoT, integrasi sensor, dan kontrol berbasis cloud**
-
-- 📫 How to reach me **jovandrymorganmereguju777@gmail.com**
-
-- ⚡ Fun fact **I love combining creative animation with IoT technology to create unique and interactive experiences, I believe that technology and art can come together to produce extraordinary work.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jovandry-morchan-316284278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jovandry-morchan-316284278/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jovan.morgan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jovan.morgan.94" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/beta_coding_kupang/?igsh=n2lvz2zwog5hz2u4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/beta_coding_kupang/?igsh=n2lvz2zwog5hz2u4" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=435&lines=Passionate+Web+Developer;IoT+and+Tech+Innovator;Animation+and+Creative+Thinker" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">
+  💻 A passionate web developer from Indonesia 🌏
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanmorgan&show_icons=true&locale=en&layout=compact" alt="jovanmorgan" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jovanmorgan&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanmorgan&show_icons=true&locale=en" alt="jovanmorgan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovanmorgan&" alt="jovanmorgan" /></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Animation" />
+</div>
+
+---
+
+<h3 align="left"> 🚀 About Me: </h3>
+
+- 🔭 I’m currently working on **sistem_uangku**
+- 🌱 I’m learning **React.js, Vue.js, GSAP, IoT integrations with ESP32/ESP8266**
+- 👯 Open for collaboration on **Interactive Web Animations & IoT Projects**
+- 🤝 Looking for help in **Advanced IoT Solutions**
+- 💬 Ask me about **IoT systems, sensor integrations, cloud-based controls**
+- 📫 Reach me at: **jovandrymorganmereguju777@gmail.com**
+- ⚡ Fun fact: **I believe technology + art = unique and powerful solutions!**
+
+---
+
+<h3 align="left"> 🛠️ Languages and Tools: </h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <!-- Add more icons as necessary -->
+</p>
+
+---
+
+<h3 align="left"> 🌐 Connect With Me: </h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jovandry-morchan-316284278/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/https://www.facebook.com/jovan.morgan.94" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/beta_coding_kupang/?igsh=n2lvz2zwog5hz2u4" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left"> 📊 Stats: </h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanmorgan&show_icons=true&theme=tokyonight" alt="jovanmorgan" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovanmorgan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanmorgan&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
