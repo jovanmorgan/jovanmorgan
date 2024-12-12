@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Smart Anime Character Animation" />
+  <img src="1.gif" width="300" alt="Smart Anime Character Animation" />
 </div>
 
 
