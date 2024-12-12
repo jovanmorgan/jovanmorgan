@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="1.gif" width="300" alt="Smart Anime Character Animation" />
+  <img src="2.gif" width="300" alt="Smart Anime Character Animation" />
 </div>
 
 
