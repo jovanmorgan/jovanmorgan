@@ -17,8 +17,9 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Smart Anime Character Animation" />
 </div>
+
 
 ---
 
@@ -65,15 +66,10 @@
 
 ---
 
-<h3 align="left"> 📊 Stats: </h3>
+### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanmorgan&show_icons=true&theme=tokyonight" alt="jovanmorgan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jovanmorgan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=jovanmorgan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanmorgan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovanmorgan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanmorgan&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
