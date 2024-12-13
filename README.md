@@ -69,3 +69,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanmorgan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<h3 align="left"> 🌟 My Vision: </h3>
+<p align="left">
+  To leverage technology in creating innovative solutions that are not only functional but also aesthetically appealing, 
+  empowering communities through the Internet of Things (IoT) and interactive web design. 
+  I believe that the fusion of creativity and technology can drive positive change in the world.
+</p>
+
+
+
